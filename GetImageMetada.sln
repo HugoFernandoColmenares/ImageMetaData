@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetImageMetada", "GetImageMetada\GetImageMetada.csproj", "{8982085C-9F8E-4EC3-9C51-B1BBAA5110C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8982085C-9F8E-4EC3-9C51-B1BBAA5110C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8982085C-9F8E-4EC3-9C51-B1BBAA5110C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8982085C-9F8E-4EC3-9C51-B1BBAA5110C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8982085C-9F8E-4EC3-9C51-B1BBAA5110C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28AC85D9-46A7-4636-87D9-BD35183FE893}
+	EndGlobalSection
+EndGlobal

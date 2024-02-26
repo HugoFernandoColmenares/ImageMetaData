@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vrxTKmT1c1hEOi2SJsfQ6y5lDsT9AVfppL2ijEmeMpS8vCmagE15Cz75PgA2Jxe5fGvdV2zj6i+7guztvDOWSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin1\\Documents\\Recursos\\NetCore\\GetImageMetada\\GetImageMetada\\GetImageMetada.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin1\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Admin1\\.nuget\\packages\\system.drawing.common\\8.0.2\\system.drawing.common.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
